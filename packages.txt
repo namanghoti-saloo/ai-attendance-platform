@@ -1,0 +1,3 @@
+cmake
+tesseract-ocr
+libgl1-mesa-glx
